@@ -11,6 +11,7 @@ The script consists of a single function, `processSamsungData()`, which reads an
 
 
 The data for the project comes from the Human Activity Recognition (HAR) database, and was downloaded from the following Internet site:
+
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Prior to processing, the data files were unzipped, preserving the original directory structure. The following eight files were used by the script:
